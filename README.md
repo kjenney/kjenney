@@ -1,4 +1,6 @@
-### Hi there 👋
+### I'm Ken Jenney
+
+I'm an Infrastructure Engineer. I work primarily in AWS with Kubernetes building highly scalable Enterprise systems.
 
 - 🔭 I’m currently working with Kubernetes (K8S), AWS Cloud, AWS CodePipeline, and ArgoCD.
 
