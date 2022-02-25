@@ -1,8 +1,10 @@
-### I'm Ken Jenney
+### I'm Ken Jenney 👋
 
-I'm an Infrastructure Engineer. I work primarily in AWS with Kubernetes building highly scalable Enterprise systems.
+A Cloud Platform Engineer @ Veracode. Interested in Cloud Native, Cloud Computing, and IoT.
 
-- 🔭 I’m currently working with Kubernetes (K8S), AWS Cloud, AWS CodePipeline, and ArgoCD.
+- 🔭  I’m currently working with Kubernetes (K8S), AWS Cloud, AWS CodePipeline, and ArgoCD.
+- 🌱  Currently living the dream
+- 👯  Looking to collaborate on Kubernetes & Istio related opens source projects
 
 <!--
 **kjenney/kjenney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
