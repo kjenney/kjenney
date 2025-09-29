@@ -1,10 +1,11 @@
 ### I'm Ken Jenney 👋
 
-A Cloud Platform Engineer @ Veracode. Interested in Cloud Native, Cloud Computing, and IoT.
+A Cloud Platform Engineering Manager @ Veracode. Interested in Cloud Native, Cloud Computing, and IoT.
 
 - 🔭  I’m currently working with Kubernetes (K8S), AWS Cloud, AWS CodePipeline, and ArgoCD.
 - 🌱  Currently living the dream
 - 👯  Looking to collaborate on Kubernetes & Istio related opens source projects
+- 💬  Ask me about using AI and ML to improve enterprise workflows
 
 <!--
 **kjenney/kjenney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
